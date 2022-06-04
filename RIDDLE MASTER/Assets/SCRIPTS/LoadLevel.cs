@@ -10,7 +10,6 @@ public class LoadLevel : MonoBehaviour
         SceneManager.LoadScene("GAME");
     }
 
-
     public void loadMain(){
         SceneManager.LoadScene("MAIN MENU");
     }
